@@ -76,7 +76,7 @@ This chart shows inventory distribution and helps analyze product demand.
 
 ## 🌐 Please visit my PowerBI projects:
 
-👉 (https://app.powerbi.com/groups/me/reports/8ec1722b-9888-499b-b976-c709ad47ecbc/996bf351c2c222151c70?experience=power-bi) 
+👉 [Link to my report](https://app.powerbi.com/groups/me/reports/8ec1722b-9888-499b-b976-c709ad47ecbc/996bf351c2c222151c70?experience=power-bi) 
 
 
 ---
